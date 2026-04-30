@@ -1,0 +1,12 @@
+C:\checkpointIOT\src\CheckpointIOT.Shared\bin\Debug\net9.0\CheckpointIOT.Shared.deps.json
+C:\checkpointIOT\src\CheckpointIOT.Shared\bin\Debug\net9.0\CheckpointIOT.Shared.dll
+C:\checkpointIOT\src\CheckpointIOT.Shared\bin\Debug\net9.0\CheckpointIOT.Shared.pdb
+C:\checkpointIOT\src\CheckpointIOT.Shared\obj\Debug\net9.0\CheckpointIOT.Shared.csproj.AssemblyReference.cache
+C:\checkpointIOT\src\CheckpointIOT.Shared\obj\Debug\net9.0\CheckpointIOT.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\checkpointIOT\src\CheckpointIOT.Shared\obj\Debug\net9.0\CheckpointIOT.Shared.AssemblyInfoInputs.cache
+C:\checkpointIOT\src\CheckpointIOT.Shared\obj\Debug\net9.0\CheckpointIOT.Shared.AssemblyInfo.cs
+C:\checkpointIOT\src\CheckpointIOT.Shared\obj\Debug\net9.0\CheckpointIOT.Shared.csproj.CoreCompileInputs.cache
+C:\checkpointIOT\src\CheckpointIOT.Shared\obj\Debug\net9.0\CheckpointIOT.Shared.dll
+C:\checkpointIOT\src\CheckpointIOT.Shared\obj\Debug\net9.0\refint\CheckpointIOT.Shared.dll
+C:\checkpointIOT\src\CheckpointIOT.Shared\obj\Debug\net9.0\CheckpointIOT.Shared.pdb
+C:\checkpointIOT\src\CheckpointIOT.Shared\obj\Debug\net9.0\ref\CheckpointIOT.Shared.dll
