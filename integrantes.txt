@@ -1,5 +1,4 @@
-Professor: preencher nome do professor
-Repositorio GitHub: preencher URL do repositorio
+Repositorio GitHub: https://github.com/letprado/checkpoint-iot.git
 
 Letícia Sousa Prado Silva - RM559258
 Link do youtube: https://youtu.be/jyI5FSRVt94

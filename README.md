@@ -5,7 +5,7 @@ Projeto de exemplo em .NET 9 com arquitetura baseada em mensageria para atender 
 ## Integrantes
 
 - Integrantes do grupo: consultar o arquivo `integrantes.txt`
-- Link do repositorio GitHub: preencher com a URL publica do grupo
+- Link do repositorio GitHub: https://github.com/letprado/checkpoint-iot.git
 - Link do youtube: https://youtu.be/jyI5FSRVt94
 
 ## Estrutura da solucao
